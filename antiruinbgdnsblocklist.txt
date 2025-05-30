@@ -9,6 +9,7 @@
 ! Version: 2025.0530.1200
 ! Syntax: AdBlock
 ! Number of entries: 309
+!
 ||19min.bg^
 ||30dumi.eu^
 ||7dnibansko.bg^
