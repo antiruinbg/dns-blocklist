@@ -12,8 +12,8 @@ This blocklist protects against russian propaganda disseminated in Bulgaria.
 
 ## 📦 Installation
 
-Copy permalink for the file antiruinbgdnsblocklist.txt above and paste it in your blocker software.
-https://github.com/antiruinbg/dns-blocklist/blob/281bdfc9ae9d6512dc16c9f46c5ae940f47e3884/antiruinbgdnsblocklist.txt
+Copy link below and paste it in your blocker software:
+https://raw.githubusercontent.com/antiruinbg/dns-blocklist/refs/heads/main/antiruinbgdnsblocklist.txt
 
 ## 📈 Roadmap
 
